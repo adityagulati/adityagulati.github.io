@@ -106,7 +106,7 @@ author:
   avatar           : "/assets/images/bio.jpg"
   bio              : "Research Fellow, University of California Santa Barbara"
   location         : "Santa Barbara, CA, USA"
-  email            : adityagulati@ucsb.edu
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -122,10 +122,10 @@ author:
       # url: "https://facebook.com/"
     - label: "ditttu"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ditttu"
+      # url: "https://github.com/ditttu"
     - label: "_aditya_gulati"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/_aditya_gulati/"
+      # url: "https://www.instagram.com/_aditya_gulati/"
 
 # Site Footer
 footer:
