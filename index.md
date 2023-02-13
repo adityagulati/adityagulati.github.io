@@ -13,7 +13,7 @@ Before joining UCSB, I obtained my BS in Mathematics from the Indian Institute o
 
 <span style="font-family: Source Sans Pro;"><b><!--<i class="far fa-file-pdf" aria-hidden="true"></i> -->[CV](/assets/Resume.pdf)</b></span>
 
-[<i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/ditttu) &nbsp; [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/aditya-gulati-b80a9a15b/) &nbsp; [<i class="fab fa-instagram"></i>](https://adityagulati.github.io)
+[<i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/ditttu) &nbsp; [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/aditya-gulati-b80a9a15b/) &nbsp; [<i class="fab fa-instagram"></i>](https://scholar.google.com/citations?user=y_atVssAAAAJ&hl=en)
 
 ## Publications
 <span style="font-family: Source Sans Pro;">**Pseudorandom (Function-Like) Quantum State Generators: New Definitions and Applications**</span><br>
