@@ -20,7 +20,7 @@ title                    : "Aditya Gulati"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Aditya Gulati"
-description              : "Homepage for Aditya Gulati, CS Research Fellow at UCSB"
+description              : "Homepage for Aditya Gulati, CS Ph.D. at UCSB"
 url                      : "https://adityagulati.github.io"
 baseurl                  : ""
 repository               : "adityagulati/adityagulati.github.io"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Aditya Gulati"
   avatar           : "/assets/images/bio.jpg"
-  bio              : "Research Fellow, University of California Santa Barbara"
+  bio              : "Ph.D. student, University of California Santa Barbara"
   location         : "Santa Barbara, CA, USA"
   email            : 
   links:
