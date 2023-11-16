@@ -16,6 +16,12 @@ Before joining UCSB, I obtained my BS in Mathematics from the Indian Institute o
 [<i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/ditttu) &nbsp; [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/aditya-gulati-b80a9a15b/) &nbsp; [<i class="fab fa-instagram"></i>](https://scholar.google.com/citations?user=y_atVssAAAAJ&hl=en)
 
 ## Publications
+<span style="font-family: Source Sans Pro;">**Pseudorandom Isometries**</span><br>
+P. Ananth, A. Gulati, F. Kaleoglu, Y.T. Lin <br>
+e-print <br>
+[PDF](https://arxiv.org/pdf/2311.02901.pdf)
+
+
 <span style="font-family: Source Sans Pro;">**Pseudorandom (Function-Like) Quantum State Generators: New Definitions and Applications**</span><br>
 P. Ananth, A. Gulati, L. Qian, H. Yuen <br>
 TCC 2022, QCRYPT2022, QIP 2023 <br>
@@ -35,4 +41,4 @@ CALDAM 2021 <br>
 
 
 ## Conference Reviews
-<span style="font-family: Source Sans Pro;">**PKC**'22 ,**CRYPTO**'22 ,**EUROCRYPT**'23 ,**ITC**'23, **QIP**'24</span>
+<span style="font-family: Source Sans Pro;">**PKC**'22 ,**CRYPTO**'22 ,**EUROCRYPT**'23 ,**ITC**'23, **QIP**'24, **STACS**'24</span>
