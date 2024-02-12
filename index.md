@@ -18,7 +18,7 @@ Before joining UCSB, I obtained my BS in Mathematics from the Indian Institute o
 ## Publications
 <span style="font-family: Source Sans Pro;">**Pseudorandom Isometries**</span><br>
 P. Ananth, A. Gulati, F. Kaleoglu, Y.T. Lin <br>
-e-print <br>
+EuroCrypt 2024 <br>
 [PDF](https://arxiv.org/pdf/2311.02901.pdf)
 
 
