@@ -41,4 +41,4 @@ CALDAM 2021 <br>
 
 
 ## Conference Reviews
-<span style="font-family: Source Sans Pro;">**PKC**'22 ,**CRYPTO**'22 ,**EUROCRYPT**'23 ,**ITC**'23, **QIP**'24, **STACS**'24</span>
+<span style="font-family: Source Sans Pro;">**PKC**'22 ,**CRYPTO**'22 ,**EUROCRYPT**'23 ,**ITC**'23, **QIP**'24, **STACS**'24, **TQC**'24, **CRYPTO**'24</span>
