@@ -16,6 +16,12 @@ Before joining UCSB, I obtained my BS in Mathematics from the Indian Institute o
 [<i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/ditttu) &nbsp; [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/aditya-gulati-b80a9a15b/) &nbsp; [<i class="fab fa-instagram"></i>](https://scholar.google.com/citations?user=y_atVssAAAAJ&hl=en)
 
 ## Publications
+<span style="font-family: Source Sans Pro;">**Cryptography in the Common Haar State Model: Feasibility Results and Separations**</span><br>
+P. Ananth, A. Gulati, Y.T. Lin <br>
+QCRYPT 2024 <br>
+[PDF](https://eprint.iacr.org/2024/1043.pdf)
+
+
 <span style="font-family: Source Sans Pro;">**Pseudorandom Isometries**</span><br>
 P. Ananth, A. Gulati, F. Kaleoglu, Y.T. Lin <br>
 EuroCrypt 2024 <br>
