@@ -18,7 +18,7 @@ Before joining UCSB, I obtained my BS in Mathematics from the Indian Institute o
 ## Publications
 <span style="font-family: Source Sans Pro;">**Cryptography in the Common Haar State Model: Feasibility Results and Separations**</span><br>
 P. Ananth, A. Gulati, Y.T. Lin <br>
-QCRYPT 2024 <br>
+QCRYPT 2024, TCC 2024 <br>
 [PDF](https://eprint.iacr.org/2024/1043.pdf)
 
 
@@ -47,4 +47,4 @@ CALDAM 2021 <br>
 
 
 ## Conference Reviews
-<span style="font-family: Source Sans Pro;">**PKC**'22 ,**CRYPTO**'22 ,**EUROCRYPT**'23 ,**ITC**'23, **QIP**'24, **STACS**'24, **TQC**'24, **CRYPTO**'24</span>
+<span style="font-family: Source Sans Pro;">**PKC**'22 ,**CRYPTO**'22 ,**EUROCRYPT**'23 ,**ITC**'23, **QIP**'24, **STACS**'24, **TQC**'24, **CRYPTO**'24, **IEEE Transactions on Communications**</span>
