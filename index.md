@@ -5,7 +5,7 @@ comments: false
 title: About
 classes: wide
 ---
-I am a Third year Ph.D. student and chancellor fellow in the Department of Computer Science at the University of California, Santa Barbara. I am very fortunate to be advised by [Prof Prabhanjan Ananth](https://sites.google.com/site/prabhanjanva/). My research interests lie in quantum computing and quantum information. My recent work has been on quantum pseidorandomness and other primitives in Microcrypt.
+I am a Third year Ph.D. student and chancellor fellow in the Department of Computer Science at the University of California, Santa Barbara. I am very fortunate to be advised by [Prof Prabhanjan Ananth](https://sites.google.com/site/prabhanjanva/). My research interests lie in quantum computing and quantum information. My recent work has been on quantum pseudorandomness and other primitives in Microcrypt.
 
 Before joining UCSB, I obtained my BS in Mathematics from the Indian Institute of Technology, Kanpur in 2021. There I worked with [Prof Rajat Mittal](https://www.cse.iitk.ac.in/users/rmittal/) on polynomial over integers modulo prime powers and p-orderings. I also spent a semester at UCSB, working with [Prof Trinabh Gupta](https://sites.cs.ucsb.edu/~trinabh/) on two-party schemes to create a private ML system, and a semester working with [Prof Amit Kuber](https://sites.google.com/view/exploring-infinity-within/) in co-operative games.
 
