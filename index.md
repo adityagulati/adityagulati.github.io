@@ -18,7 +18,7 @@ Before joining UCSB, I obtained my BS in Mathematics from the Indian Institute o
 ## Publications
 <span style="font-family: Source Sans Pro;">**Pseudorandomness in the (Inverseless) Haar Random Oracle Model**</span><br>
 P. Ananth, J. Bostanci, A. Gulati, Y.T. Lin <br>
-e-print <br>
+EuroCrypt 2025 <br>
 [PDF](https://eprint.iacr.org/2024/1745.pdf)
 
 
