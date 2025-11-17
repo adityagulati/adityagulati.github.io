@@ -16,6 +16,36 @@ Before joining UCSB, I obtained my BS in Mathematics from the Indian Institute o
 [<i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/ditttu) &nbsp; [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/aditya-gulati-b80a9a15b/) &nbsp; [<i class="fab fa-instagram"></i>](https://scholar.google.com/citations?user=y_atVssAAAAJ&hl=en)
 
 ## Publications
+<span style="font-family: Source Sans Pro;">**Gluing Random Unitaries with Inverses and Applications to Strong Pseudorandom Unitaries**</span><br>
+P. Ananth, J. Bostanci, A. Gulati, Y.T. Lin <br>
+QIP 2026 <br>
+[PDF](https://eprint.iacr.org/2025/1889.pdf)
+
+
+<span style="font-family: Source Sans Pro;">**On the Limitations of Pseudorandom Unitaries**</span><br>
+P. Ananth, A. Gulati, Y.T. Lin <br>
+TCC 2025 <br>
+[PDF](https://eprint.iacr.org/2025/1785.pdf)
+
+
+<span style="font-family: Source Sans Pro;">**Black-Box Separation Between Pseudorandom Unitaries, Pseudorandom Isometries, and Pseudorandom Function-Like States**</span><br>
+A. Gulati, Y.T. Lin, T. Morimae, S. Yamada <br>
+(e-print) <br>
+[PDF](https://eprint.iacr.org/2025/1864.pdf)
+
+
+<span style="font-family: Source Sans Pro;">**Pseudorandom Unitaries in the Haar Random Oracle Model**</span><br>
+P. Ananth, J. Bostanci, A. Gulati, Y.T. Lin <br>
+CRYPTO 2025 <br>
+[Part1](https://eprint.iacr.org/2025/1784.pdf), [Part2](https://eprint.iacr.org/2025/1889.pdf)
+
+
+<span style="font-family: Source Sans Pro;">**Normalized Space Alignment: A Versatile Metric for Representation Analysis**</span><br>
+D. Ebadulla, A. Gulati, A. Singh <br>
+SIGKDD 2025 <br>
+[PDF](https://arxiv.org/abs/2411.04512)
+
+
 <span style="font-family: Source Sans Pro;">**Pseudorandomness in the (Inverseless) Haar Random Oracle Model**</span><br>
 P. Ananth, J. Bostanci, A. Gulati, Y.T. Lin <br>
 EuroCrypt 2025 <br>
@@ -53,4 +83,4 @@ CALDAM 2021 <br>
 
 
 ## Conference Reviews
-<span style="font-family: Source Sans Pro;">**PKC**'22 ,**CRYPTO**'22 ,**EUROCRYPT**'23 ,**ITC**'23, **QIP**'24, **STACS**'24, **TQC**'24, **CRYPTO**'24, **IEEE Transactions on Communications**</span>
+<span style="font-family: Source Sans Pro;">**PKC**'22 ,**CRYPTO**'22,24,25 ,**EUROCRYPT**'23,25,26 ,**TCC**'23,24,25 ,**ASIACRYPT**'25 ,**QIP**'24,25,26 ,**TQC**'24,25 ,**ITC**'23, **STACS**'24 ,**IEEE Transactions on Communications** ,**STOC**'26 ,**Quantum** ,**ITCS**'26 ,**SICOMP**</span>
